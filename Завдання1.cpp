@@ -6,8 +6,9 @@ int main() {
     cout << "Введіть два числа: ";
     cin >> a >> b;
 
-    avg = (a + b) / __; 
+    avg = (a + b)/2; 
 
     cout << "Середнє = " << avg << endl;
     return 0;
 }
+
